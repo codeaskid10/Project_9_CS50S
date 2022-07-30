@@ -1,6 +1,6 @@
 ## CS50’s Introduction to Programming - Building From Scratch, Project 9
 
-This is CS50’s Introduction to Programming with Scratch The Lecture 1 **Unnoficial** Video Player On Scratch. This project is a **MASSIVE FILE** and Scratch does not like files this size because it wouldn't save for me and the sb3 is around 90 mb which is pretty big. The maximum is 50 mb. It is because of the 3500+ _low quality_ images that i have to use as frames because scratch does not support mp4 files.
+This is CS50’s Introduction to Programming with Scratch, The Lecture 1 **Unnoficial** Video Player On Scratch. This project is a **MASSIVE FILE** and Scratch does not like files this size because it wouldn't save for me and the sb3 is around 90 mb which is pretty big. The maximum is 50 mb. It is because of the 3500+ _low quality_ images that i have to use as frames because scratch does not support mp4 files.
 
 ### The Requirements
 
