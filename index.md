@@ -6,14 +6,14 @@ This is CS50’s Introduction to Programming with Scratch The Lecture 1 **Unnofi
 
 This is what the requirements for Project 9 are. 
 - At least three different sprites.
--At least three total backdrops.
--At least one broadcast.
--At least one clone.
--At least one custom block.
--At least one variable.
--At least one loop.
--At least one condition.
--At least one event.
+- At least three total backdrops.
+- At least one broadcast.
+- At least one clone.
+- At least one custom block.
+- At least one variable.
+- At least one loop.
+- At least one condition.
+- At least one event.
 
 ### How I Met The Requirements
 
