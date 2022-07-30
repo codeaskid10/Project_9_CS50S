@@ -39,7 +39,7 @@ The ninth and final requirement is by having at least one event which there are 
 
 I HIGHLY suggest that you use turbowarp after downloading the sb3 file from the google drive link in README.md because turbowarp can apperently handle the outragous file size.
 
-1. Go to README.MD
+1. Go to click this link to get to README.MD ➡ https://github.com/codeaskid10/Project_9_CS50S#readme
 2. Click the Google Drive link there
 3. Download the .sb3 file and it should be around 90 mb
 4. Go to Turbowarp it will also be in README.md file and 
